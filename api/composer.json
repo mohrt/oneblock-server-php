@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slim/slim": "^2.6",
+        "bitcoin-php/bitcoin-ecdsa": "^1.1"
+    }
+}
