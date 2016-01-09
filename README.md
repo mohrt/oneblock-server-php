@@ -6,8 +6,10 @@ Status: Draft
 
 # API
 
-Run the database schema on your mysql server. Check DAO.php for db setup.
-Place the contents of this repo in the root folder of your web server.
+* Run the database schema on your mysql server.
+* Check api/DAO.php for db setup.
+* Place the contents of this repo in the root folder of your web server.
+* Be sure .htaccess is allowed from apache
 
 The 1Block server-side is a REST API that must adhere to the following protocol.
 
